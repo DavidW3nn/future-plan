@@ -7,3 +7,6 @@ RENCANA PROFESI
 - Guitar player
   * Belajar gitar untuk havefun
 - Investor
+  ^ Crypto
+  ^ Saham
+- Teknisi
